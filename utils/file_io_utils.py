@@ -26,7 +26,8 @@ if __name__ == "__main__":
     
     # ios = get_remote_stream("https://github.com/browser-use/browser-use/pull/845.diff")
     ios:bytes = get_remote_contents("https://github.com/browser-use/browser-use/pull/845.diff")
-    print(ios.decode("utf8"))
+    # print(ios.decode("utf8"))
+    print(ios)
     
     # while True:
     #     c = ios.read()
