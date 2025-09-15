@@ -38,5 +38,5 @@ jupyter notebook 建议使用 vscode 打开，可能用到的插件：
 
 notebook 中，示例了总结 browser-use 最近 2 天的 open PR 并汇总成周报，评论到 icm162/pgat 的首个 PR 下；实测在 github enterprise 中也是以上相同操作获取 access token，可以考虑换用内部可用的大模型 api；
 
-![comment_sample](.\readme\\comment_sample.png)
+![comment_sample](readme/comment_sample.png)
 
